@@ -95,6 +95,7 @@ git push origin branch_name
   <br>
   
 
+## 	:game_die: Shoutout to all the contributors ❤️
 
 <a href="https://github.com/verreauxblack/CSSART-Hacktoberfest2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=verreauxblack/CSSART-Hacktoberfest2021" />
